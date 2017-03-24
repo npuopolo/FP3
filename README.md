@@ -17,7 +17,7 @@ The report template is below, beginning with "Library Name Here."
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 ## Library Name Here
-My name: **put your real name here**
+My name: Nicholas Puopolo
 
 Write what you did!
 Remember that this report must include:
